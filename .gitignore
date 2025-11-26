@@ -1,0 +1,22 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Dependencies & Logs
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build Outputs
+dist/
+build/
+out/
+
+# Temporary Files
+tmp/
+temp/
